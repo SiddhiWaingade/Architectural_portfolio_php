@@ -1,0 +1,18 @@
+# XAMPP / local server
+/xampp/
+/mysql/data/
+
+# Logs / crash files
+*.log
+bash.exe.stackdump
+
+# Environment / config (if sensitive)
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
